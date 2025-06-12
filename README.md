@@ -1,4 +1,4 @@
 # Fundamentos_Programacion
-Unidad 1 de la materia de programación
+Mis aprendizajes en la programación estructurada
 
 Si lees esto hola profe :D
